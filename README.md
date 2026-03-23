@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Social badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jeevesh-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jeevesh-portflio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JeeveshMahato)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeeveshmaaht@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeeveshmahato)
@@ -77,7 +77,7 @@ const jeevesh = {
 - **OAuth** (Google, GitHub) via Passport.js + Razorpay payments
 - **Stack:** React · Vite · Redux Toolkit · Node.js · Express · MongoDB · Socket.io · Cloudinary
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://maitri-tinder.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://maitri-app-frontend.onrender.com/)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeeveshmahato/Maitri_Frontend_Dev_Tinder)
 
 ---
@@ -89,7 +89,7 @@ const jeevesh = {
 - **Real-time form validation** and dynamic conditional rendering
 - **Stack:** React · Vite · Redux Toolkit · Node.js · Express · MongoDB
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://get-me-ai.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-website-frontend.onrender.com/)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeeveshmahato/GetMeAI)
 
 ---
@@ -149,7 +149,7 @@ If you're hiring or know someone who is — let's talk!
 
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeeveshmaaht@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JeeveshMahato)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jeevesh-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jeevesh-portflio.vercel.app/)
 
 </div>
 
