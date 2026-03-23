@@ -1,0 +1,6 @@
+- Header with your name + role (Frontend / Full Stack Engineer)
+- 1-line summary from your resume
+- Tech stack badges (shields.io)
+- Featured projects with links + what problem they solve
+- GitHub stats (github-readme-stats)
+- Contact links
