@@ -144,8 +144,8 @@ const jeevesh = {
 
 <div align="center">
 
-I'm actively looking for **Frontend / Full Stack SDE roles** in India (10+ LPA).  
-If you're hiring or know someone who is — let's talk!
+I am actively looking for **Frontend / Full Stack SDE roles** in India.  
+If you're hiring or know someone who is, let's talk!
 
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeeveshmaaht@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeveshmahato/)
